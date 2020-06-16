@@ -15,7 +15,7 @@ end
 
 ## Installation
 
-[Available in Hex](https://hexdocs.pm/ecto_with_atom).
+[Available in Hex](https://hex.pm/packages/ecto_with_atoms/1.0.0)
 
 ```elixir
 def deps do
